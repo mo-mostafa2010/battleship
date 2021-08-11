@@ -1,3 +1,3 @@
 from battleship import api
 
-api.app.run()
+api.app.run(debug=True)
